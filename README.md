@@ -1,6 +1,6 @@
 # Ching-Heng Cheng — Personal Homepage
 
-個人學術首頁，使用純 HTML、CSS、JavaScript，由 GitHub Pages 發佈。
+個人職涯與作品首頁，使用純 HTML、CSS、JavaScript，由 GitHub Pages 發佈。
 
 - 正式網址：https://chingheng0808.github.io/
 - 專案：`chingheng0808/chingheng0808.github.io`
@@ -35,7 +35,7 @@ GitHub Pages 使用 `main` 分支的根目錄，自動重新發佈。若首次�
 
 ## 內容來源與設計
 
-個人資料與論文資料依提供的履歷整理。保留履歷所列學位狀態，未推測畢業或工作異動。
+個人資料與論文資料依提供的履歷與本人更新整理。現職為台達電子新竹辦公室（台達研究院）研發替代役，自 2026 年 9 月起。新增的 IET Taipei 碩士論文獎優等未指定年份，因此頁面不標示年份。
 公開頁面未包含私人電話、推薦人的聯絡資訊或原始履歷 PDF。
 版型參考 https://nandometzger.github.io/ 的簡潔學術首頁，程式與版面重新製作，未複製其圖片或研究內容。
 字型使用 Google Fonts DM Sans，離線時會退回 Arial / sans-serif。
