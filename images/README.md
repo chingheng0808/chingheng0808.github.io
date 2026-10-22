@@ -5,6 +5,7 @@
 | 圖片 | 檔名 | 建議尺寸 |
 |---|---|---|
 | 個人照片 | `profile.jpg` | 600 × 720 或更大，主體置中 |
+| FlashReFocus | `papers/flashrefocus.jpg` | 官方專案頁示意圖 |
 | WWE-UIE | `papers/wweuie.png` | 800 × 600 |
 | PromptHSI | `papers/prompthsi.png` | 800 × 600 |
 | ChangeDINO | `papers/changedino.png` | 800 × 600 |
