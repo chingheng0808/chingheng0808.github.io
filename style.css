@@ -6,3 +6,5 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
 .chinese-name{display:inline-block;font-size:.58em;letter-spacing:0;font-weight:500;color:var(--muted)}.award-label{font-size:12px;color:#8594af;padding-top:2px}.eyebrow{line-height:1.8}h1{line-height:1.35}
+
+.paper-url{margin:7px 0 0;font-size:11px;line-height:1.65;color:var(--muted);overflow-wrap:anywhere;word-break:normal}.paper-url span{font-weight:500}.paper-url a{overflow-wrap:anywhere}
